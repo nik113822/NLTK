@@ -26,7 +26,7 @@ python main.py lr ➜ Εκπαίδευση Logistic Regression
 
 python main.py nb ➜ Εκπαίδευση Naive Bayes
 
-python main.py mlp ➜ Εκπαίδευση Νευρωνικού Δικτύου
+python main.py mlp ➜ Εκπαίδευση Νευρωνικού Δικτύου(12,61min)
 
 4)Εγκατάσταση Απαιτήσεων
 Βεβαιωθείτε ότι έχετε εγκατεστημένη την Python. 
