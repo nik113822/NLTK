@@ -26,7 +26,7 @@ python main.py lr ➜ Εκπαίδευση Logistic Regression
 
 python main.py nb ➜ Εκπαίδευση Naive Bayes
 
-python main.py mlp ➜ Εκπαίδευση Νευρωνικού Δικτύου(διάρκεια εκτέλεσης με μ.ο. 12,61 min)
+python main.py mlp ➜ Εκπαίδευση Νευρωνικού Δικτύου(διάρκεια εκτέλεσης με μ.ο. 204 min)
 
 python main.py ola ➜ Εκπαίδευση και των 3 αλγορίθμων
 
