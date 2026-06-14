@@ -1,0 +1,1768 @@
+
+=== LOGISTIC REGRESSION - 100 x STRATIFIED K-FOLD ===
+
+=== LOGISTIC REGRESSION - 100 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.944246
+Fold 2: 0.943227
+Fold 3: 0.947508
+Fold 4: 0.942921
+Fold 5: 0.946381
+Fold 6: 0.941896
+Fold 7: 0.941896
+Fold 8: 0.943527
+Fold 9: 0.944241
+Fold 10: 0.944954
+Meso Accuracy: 0.944080
+
+Run 2
+Fold 1: 0.943023
+Fold 2: 0.943329
+Fold 3: 0.946285
+Fold 4: 0.942717
+Fold 5: 0.940571
+Fold 6: 0.942712
+Fold 7: 0.943527
+Fold 8: 0.943833
+Fold 9: 0.942915
+Fold 10: 0.946381
+Meso Accuracy: 0.943529
+
+Run 3
+Fold 1: 0.944654
+Fold 2: 0.942514
+Fold 3: 0.940271
+Fold 4: 0.945571
+Fold 5: 0.947706
+Fold 6: 0.942202
+Fold 7: 0.944954
+Fold 8: 0.942202
+Fold 9: 0.942610
+Fold 10: 0.947197
+Meso Accuracy: 0.943988
+
+Run 4
+Fold 1: 0.946285
+Fold 2: 0.942310
+Fold 3: 0.945062
+Fold 4: 0.943940
+Fold 5: 0.944139
+Fold 6: 0.943935
+Fold 7: 0.939857
+Fold 8: 0.944648
+Fold 9: 0.943527
+Fold 10: 0.943629
+Meso Accuracy: 0.943733
+
+Run 5
+Fold 1: 0.942819
+Fold 2: 0.942615
+Fold 3: 0.944654
+Fold 4: 0.943839
+Fold 5: 0.946075
+Fold 6: 0.949643
+Fold 7: 0.940877
+Fold 8: 0.941590
+Fold 9: 0.947503
+Fold 10: 0.940469
+Meso Accuracy: 0.944008
+
+Run 6
+Fold 1: 0.940679
+Fold 2: 0.942004
+Fold 3: 0.948323
+Fold 4: 0.947814
+Fold 5: 0.943527
+Fold 6: 0.938838
+Fold 7: 0.944037
+Fold 8: 0.944037
+Fold 9: 0.943731
+Fold 10: 0.942915
+Meso Accuracy: 0.943590
+
+Run 7
+Fold 1: 0.945571
+Fold 2: 0.940679
+Fold 3: 0.941290
+Fold 4: 0.942514
+Fold 5: 0.943323
+Fold 6: 0.946279
+Fold 7: 0.945260
+Fold 8: 0.942610
+Fold 9: 0.941488
+Fold 10: 0.944546
+Meso Accuracy: 0.943356
+
+Run 8
+Fold 1: 0.944246
+Fold 2: 0.946998
+Fold 3: 0.943227
+Fold 4: 0.940781
+Fold 5: 0.940979
+Fold 6: 0.944444
+Fold 7: 0.942712
+Fold 8: 0.944546
+Fold 9: 0.947197
+Fold 10: 0.944648
+Meso Accuracy: 0.943978
+
+Run 9
+Fold 1: 0.946387
+Fold 2: 0.941902
+Fold 3: 0.945775
+Fold 4: 0.946183
+Fold 5: 0.944750
+Fold 6: 0.941998
+Fold 7: 0.945260
+Fold 8: 0.942508
+Fold 9: 0.943731
+Fold 10: 0.942508
+Meso Accuracy: 0.944100
+
+Run 10
+Fold 1: 0.943329
+Fold 2: 0.942921
+Fold 3: 0.944552
+Fold 4: 0.941188
+Fold 5: 0.941794
+Fold 6: 0.942712
+Fold 7: 0.948216
+Fold 8: 0.942813
+Fold 9: 0.941488
+Fold 10: 0.946483
+Meso Accuracy: 0.943550
+
+Run 11
+Fold 1: 0.944042
+Fold 2: 0.942717
+Fold 3: 0.944246
+Fold 4: 0.941698
+Fold 5: 0.944444
+Fold 6: 0.941182
+Fold 7: 0.945668
+Fold 8: 0.943731
+Fold 9: 0.941998
+Fold 10: 0.947197
+Meso Accuracy: 0.943692
+
+Run 12
+Fold 1: 0.939660
+Fold 2: 0.942921
+Fold 3: 0.940577
+Fold 4: 0.943839
+Fold 5: 0.945260
+Fold 6: 0.944750
+Fold 7: 0.940979
+Fold 8: 0.946789
+Fold 9: 0.944444
+Fold 10: 0.944343
+Meso Accuracy: 0.943356
+
+Run 13
+Fold 1: 0.943635
+Fold 2: 0.941290
+Fold 3: 0.944042
+Fold 4: 0.940067
+Fold 5: 0.948420
+Fold 6: 0.944139
+Fold 7: 0.943629
+Fold 8: 0.946177
+Fold 9: 0.944037
+Fold 10: 0.938736
+Meso Accuracy: 0.943417
+
+Run 14
+Fold 1: 0.946489
+Fold 2: 0.946794
+Fold 3: 0.942004
+Fold 4: 0.944348
+Fold 5: 0.942915
+Fold 6: 0.940979
+Fold 7: 0.943119
+Fold 8: 0.943017
+Fold 9: 0.944444
+Fold 10: 0.943629
+Meso Accuracy: 0.943774
+
+Run 15
+Fold 1: 0.943839
+Fold 2: 0.946183
+Fold 3: 0.945062
+Fold 4: 0.940271
+Fold 5: 0.947706
+Fold 6: 0.943323
+Fold 7: 0.941896
+Fold 8: 0.942508
+Fold 9: 0.941386
+Fold 10: 0.942915
+Meso Accuracy: 0.943509
+
+Run 16
+Fold 1: 0.945266
+Fold 2: 0.947508
+Fold 3: 0.946387
+Fold 4: 0.943940
+Fold 5: 0.943425
+Fold 6: 0.943629
+Fold 7: 0.940775
+Fold 8: 0.943425
+Fold 9: 0.940367
+Fold 10: 0.944343
+Meso Accuracy: 0.943906
+
+Run 17
+Fold 1: 0.945571
+Fold 2: 0.940679
+Fold 3: 0.942921
+Fold 4: 0.942615
+Fold 5: 0.940571
+Fold 6: 0.942813
+Fold 7: 0.947706
+Fold 8: 0.945668
+Fold 9: 0.942406
+Fold 10: 0.946483
+Meso Accuracy: 0.943743
+
+Run 18
+Fold 1: 0.938946
+Fold 2: 0.943737
+Fold 3: 0.945775
+Fold 4: 0.944654
+Fold 5: 0.942712
+Fold 6: 0.943425
+Fold 7: 0.945770
+Fold 8: 0.941692
+Fold 9: 0.947503
+Fold 10: 0.942508
+Meso Accuracy: 0.943672
+
+Run 19
+Fold 1: 0.943940
+Fold 2: 0.944144
+Fold 3: 0.947610
+Fold 4: 0.942717
+Fold 5: 0.945158
+Fold 6: 0.942100
+Fold 7: 0.942202
+Fold 8: 0.941284
+Fold 9: 0.942610
+Fold 10: 0.945464
+Meso Accuracy: 0.943723
+
+Run 20
+Fold 1: 0.945164
+Fold 2: 0.941290
+Fold 3: 0.946285
+Fold 4: 0.945266
+Fold 5: 0.943221
+Fold 6: 0.945158
+Fold 7: 0.941488
+Fold 8: 0.939959
+Fold 9: 0.943119
+Fold 10: 0.942100
+Meso Accuracy: 0.943305
+
+Run 21
+Fold 1: 0.946489
+Fold 2: 0.942615
+Fold 3: 0.944042
+Fold 4: 0.946489
+Fold 5: 0.944037
+Fold 6: 0.942915
+Fold 7: 0.942610
+Fold 8: 0.943425
+Fold 9: 0.940571
+Fold 10: 0.943935
+Meso Accuracy: 0.943713
+
+Run 22
+Fold 1: 0.947202
+Fold 2: 0.944348
+Fold 3: 0.939456
+Fold 4: 0.947202
+Fold 5: 0.944954
+Fold 6: 0.945973
+Fold 7: 0.941081
+Fold 8: 0.942100
+Fold 9: 0.944241
+Fold 10: 0.945362
+Meso Accuracy: 0.944192
+
+Run 23
+Fold 1: 0.943329
+Fold 2: 0.940577
+Fold 3: 0.943839
+Fold 4: 0.946591
+Fold 5: 0.942712
+Fold 6: 0.943629
+Fold 7: 0.944954
+Fold 8: 0.943731
+Fold 9: 0.943119
+Fold 10: 0.947299
+Meso Accuracy: 0.943978
+
+Run 24
+Fold 1: 0.945775
+Fold 2: 0.942208
+Fold 3: 0.945367
+Fold 4: 0.944654
+Fold 5: 0.949847
+Fold 6: 0.944648
+Fold 7: 0.942610
+Fold 8: 0.945464
+Fold 9: 0.941590
+Fold 10: 0.937309
+Meso Accuracy: 0.943947
+
+Run 25
+Fold 1: 0.945979
+Fold 2: 0.945877
+Fold 3: 0.942004
+Fold 4: 0.944756
+Fold 5: 0.943731
+Fold 6: 0.945056
+Fold 7: 0.944444
+Fold 8: 0.940877
+Fold 9: 0.943323
+Fold 10: 0.944139
+Meso Accuracy: 0.944019
+
+Run 26
+Fold 1: 0.943329
+Fold 2: 0.943227
+Fold 3: 0.944450
+Fold 4: 0.940781
+Fold 5: 0.939959
+Fold 6: 0.945464
+Fold 7: 0.939653
+Fold 8: 0.942304
+Fold 9: 0.944241
+Fold 10: 0.946177
+Meso Accuracy: 0.942958
+
+Run 27
+Fold 1: 0.944654
+Fold 2: 0.942615
+Fold 3: 0.942615
+Fold 4: 0.946081
+Fold 5: 0.946891
+Fold 6: 0.937717
+Fold 7: 0.944648
+Fold 8: 0.942100
+Fold 9: 0.945872
+Fold 10: 0.940469
+Meso Accuracy: 0.943366
+
+Run 28
+Fold 1: 0.947304
+Fold 2: 0.942819
+Fold 3: 0.946794
+Fold 4: 0.938538
+Fold 5: 0.945362
+Fold 6: 0.941182
+Fold 7: 0.943425
+Fold 8: 0.941284
+Fold 9: 0.943425
+Fold 10: 0.944241
+Meso Accuracy: 0.943438
+
+Run 29
+Fold 1: 0.945571
+Fold 2: 0.941087
+Fold 3: 0.944450
+Fold 4: 0.946387
+Fold 5: 0.940265
+Fold 6: 0.939755
+Fold 7: 0.945260
+Fold 8: 0.940979
+Fold 9: 0.946075
+Fold 10: 0.944648
+Meso Accuracy: 0.943448
+
+Run 30
+Fold 1: 0.940271
+Fold 2: 0.947508
+Fold 3: 0.942615
+Fold 4: 0.942310
+Fold 5: 0.945260
+Fold 6: 0.943323
+Fold 7: 0.941998
+Fold 8: 0.943017
+Fold 9: 0.944954
+Fold 10: 0.940469
+Meso Accuracy: 0.943173
+
+Run 31
+Fold 1: 0.944144
+Fold 2: 0.943227
+Fold 3: 0.944246
+Fold 4: 0.939761
+Fold 5: 0.940775
+Fold 6: 0.941794
+Fold 7: 0.946687
+Fold 8: 0.942610
+Fold 9: 0.944241
+Fold 10: 0.947604
+Meso Accuracy: 0.943509
+
+Run 32
+Fold 1: 0.942310
+Fold 2: 0.943329
+Fold 3: 0.945673
+Fold 4: 0.944858
+Fold 5: 0.943221
+Fold 6: 0.945566
+Fold 7: 0.942712
+Fold 8: 0.944954
+Fold 9: 0.945362
+Fold 10: 0.941794
+Meso Accuracy: 0.943978
+
+Run 33
+Fold 1: 0.943329
+Fold 2: 0.948221
+Fold 3: 0.942412
+Fold 4: 0.941290
+Fold 5: 0.943119
+Fold 6: 0.945770
+Fold 7: 0.942915
+Fold 8: 0.942508
+Fold 9: 0.941794
+Fold 10: 0.943935
+Meso Accuracy: 0.943529
+
+Run 34
+Fold 1: 0.945062
+Fold 2: 0.941188
+Fold 3: 0.945775
+Fold 4: 0.945469
+Fold 5: 0.942100
+Fold 6: 0.942508
+Fold 7: 0.946177
+Fold 8: 0.942508
+Fold 9: 0.944037
+Fold 10: 0.942915
+Meso Accuracy: 0.943774
+
+Run 35
+Fold 1: 0.942819
+Fold 2: 0.943533
+Fold 3: 0.944144
+Fold 4: 0.942208
+Fold 5: 0.939450
+Fold 6: 0.943425
+Fold 7: 0.945566
+Fold 8: 0.944954
+Fold 9: 0.942304
+Fold 10: 0.944750
+Meso Accuracy: 0.943315
+
+Run 36
+Fold 1: 0.940475
+Fold 2: 0.944858
+Fold 3: 0.946285
+Fold 4: 0.943533
+Fold 5: 0.943935
+Fold 6: 0.941081
+Fold 7: 0.943119
+Fold 8: 0.942610
+Fold 9: 0.943935
+Fold 10: 0.944954
+Meso Accuracy: 0.943478
+
+Run 37
+Fold 1: 0.942310
+Fold 2: 0.941800
+Fold 3: 0.943125
+Fold 4: 0.944858
+Fold 5: 0.944444
+Fold 6: 0.941386
+Fold 7: 0.943527
+Fold 8: 0.943119
+Fold 9: 0.948828
+Fold 10: 0.946483
+Meso Accuracy: 0.943988
+
+Run 38
+Fold 1: 0.942717
+Fold 2: 0.945571
+Fold 3: 0.944552
+Fold 4: 0.944042
+Fold 5: 0.944546
+Fold 6: 0.942813
+Fold 7: 0.944343
+Fold 8: 0.943221
+Fold 9: 0.944139
+Fold 10: 0.942100
+Meso Accuracy: 0.943805
+
+Run 39
+Fold 1: 0.945775
+Fold 2: 0.940985
+Fold 3: 0.941596
+Fold 4: 0.940883
+Fold 5: 0.945668
+Fold 6: 0.949032
+Fold 7: 0.944648
+Fold 8: 0.939653
+Fold 9: 0.940367
+Fold 10: 0.944241
+Meso Accuracy: 0.943285
+
+Run 40
+Fold 1: 0.945877
+Fold 2: 0.946285
+Fold 3: 0.945979
+Fold 4: 0.944348
+Fold 5: 0.943323
+Fold 6: 0.943425
+Fold 7: 0.942304
+Fold 8: 0.943017
+Fold 9: 0.942304
+Fold 10: 0.944444
+Meso Accuracy: 0.944131
+
+Run 41
+Fold 1: 0.942310
+Fold 2: 0.941596
+Fold 3: 0.942208
+Fold 4: 0.942615
+Fold 5: 0.946993
+Fold 6: 0.941692
+Fold 7: 0.940367
+Fold 8: 0.948318
+Fold 9: 0.943527
+Fold 10: 0.945973
+Meso Accuracy: 0.943560
+
+Run 42
+Fold 1: 0.943533
+Fold 2: 0.943839
+Fold 3: 0.941902
+Fold 4: 0.943533
+Fold 5: 0.945566
+Fold 6: 0.942712
+Fold 7: 0.946177
+Fold 8: 0.942508
+Fold 9: 0.941488
+Fold 10: 0.947299
+Meso Accuracy: 0.943856
+
+Run 43
+Fold 1: 0.943329
+Fold 2: 0.943533
+Fold 3: 0.943431
+Fold 4: 0.945266
+Fold 5: 0.939042
+Fold 6: 0.944444
+Fold 7: 0.941794
+Fold 8: 0.945158
+Fold 9: 0.942915
+Fold 10: 0.945362
+Meso Accuracy: 0.943427
+
+Run 44
+Fold 1: 0.943023
+Fold 2: 0.942514
+Fold 3: 0.946387
+Fold 4: 0.940883
+Fold 5: 0.947299
+Fold 6: 0.942915
+Fold 7: 0.946279
+Fold 8: 0.942202
+Fold 9: 0.944444
+Fold 10: 0.944852
+Meso Accuracy: 0.944080
+
+Run 45
+Fold 1: 0.943533
+Fold 2: 0.942310
+Fold 3: 0.941392
+Fold 4: 0.943023
+Fold 5: 0.940979
+Fold 6: 0.947095
+Fold 7: 0.946279
+Fold 8: 0.944241
+Fold 9: 0.942610
+Fold 10: 0.943221
+Meso Accuracy: 0.943468
+
+Run 46
+Fold 1: 0.946692
+Fold 2: 0.942412
+Fold 3: 0.942310
+Fold 4: 0.946591
+Fold 5: 0.946993
+Fold 6: 0.941488
+Fold 7: 0.943221
+Fold 8: 0.945362
+Fold 9: 0.942915
+Fold 10: 0.943935
+Meso Accuracy: 0.944192
+
+Run 47
+Fold 1: 0.946692
+Fold 2: 0.939558
+Fold 3: 0.944552
+Fold 4: 0.945469
+Fold 5: 0.944444
+Fold 6: 0.942202
+Fold 7: 0.941386
+Fold 8: 0.943629
+Fold 9: 0.942202
+Fold 10: 0.940979
+Meso Accuracy: 0.943111
+
+Run 48
+Fold 1: 0.943023
+Fold 2: 0.942921
+Fold 3: 0.949750
+Fold 4: 0.944246
+Fold 5: 0.941896
+Fold 6: 0.942610
+Fold 7: 0.944037
+Fold 8: 0.942610
+Fold 9: 0.942406
+Fold 10: 0.942100
+Meso Accuracy: 0.943560
+
+Run 49
+Fold 1: 0.944552
+Fold 2: 0.945266
+Fold 3: 0.943533
+Fold 4: 0.943023
+Fold 5: 0.944648
+Fold 6: 0.935678
+Fold 7: 0.943017
+Fold 8: 0.942813
+Fold 9: 0.944444
+Fold 10: 0.946483
+Meso Accuracy: 0.943346
+
+Run 50
+Fold 1: 0.942106
+Fold 2: 0.941188
+Fold 3: 0.944450
+Fold 4: 0.944756
+Fold 5: 0.941590
+Fold 6: 0.942202
+Fold 7: 0.942406
+Fold 8: 0.943527
+Fold 9: 0.946177
+Fold 10: 0.941896
+Meso Accuracy: 0.943030
+
+Run 51
+Fold 1: 0.940883
+Fold 2: 0.943737
+Fold 3: 0.946692
+Fold 4: 0.944552
+Fold 5: 0.946483
+Fold 6: 0.948114
+Fold 7: 0.939144
+Fold 8: 0.940061
+Fold 9: 0.946279
+Fold 10: 0.942304
+Meso Accuracy: 0.943825
+
+Run 52
+Fold 1: 0.942514
+Fold 2: 0.941800
+Fold 3: 0.947304
+Fold 4: 0.944552
+Fold 5: 0.944139
+Fold 6: 0.941182
+Fold 7: 0.943527
+Fold 8: 0.944037
+Fold 9: 0.943527
+Fold 10: 0.943425
+Meso Accuracy: 0.943601
+
+Run 53
+Fold 1: 0.947916
+Fold 2: 0.942819
+Fold 3: 0.946387
+Fold 4: 0.942921
+Fold 5: 0.944139
+Fold 6: 0.941488
+Fold 7: 0.943527
+Fold 8: 0.945668
+Fold 9: 0.943629
+Fold 10: 0.941998
+Meso Accuracy: 0.944049
+
+Run 54
+Fold 1: 0.943125
+Fold 2: 0.942004
+Fold 3: 0.944552
+Fold 4: 0.941800
+Fold 5: 0.946789
+Fold 6: 0.943935
+Fold 7: 0.942406
+Fold 8: 0.941488
+Fold 9: 0.946483
+Fold 10: 0.941998
+Meso Accuracy: 0.943458
+
+Run 55
+Fold 1: 0.940985
+Fold 2: 0.949343
+Fold 3: 0.941188
+Fold 4: 0.944552
+Fold 5: 0.946789
+Fold 6: 0.944954
+Fold 7: 0.939653
+Fold 8: 0.942813
+Fold 9: 0.946075
+Fold 10: 0.943935
+Meso Accuracy: 0.944029
+
+Run 56
+Fold 1: 0.943431
+Fold 2: 0.942921
+Fold 3: 0.944144
+Fold 4: 0.942717
+Fold 5: 0.944954
+Fold 6: 0.939959
+Fold 7: 0.942712
+Fold 8: 0.944241
+Fold 9: 0.942813
+Fold 10: 0.946279
+Meso Accuracy: 0.943417
+
+Run 57
+Fold 1: 0.944960
+Fold 2: 0.942412
+Fold 3: 0.945673
+Fold 4: 0.948833
+Fold 5: 0.942915
+Fold 6: 0.941590
+Fold 7: 0.939857
+Fold 8: 0.944750
+Fold 9: 0.941590
+Fold 10: 0.942610
+Meso Accuracy: 0.943519
+
+Run 58
+Fold 1: 0.942004
+Fold 2: 0.945775
+Fold 3: 0.942819
+Fold 4: 0.941800
+Fold 5: 0.943629
+Fold 6: 0.943731
+Fold 7: 0.943323
+Fold 8: 0.944037
+Fold 9: 0.948012
+Fold 10: 0.943221
+Meso Accuracy: 0.943835
+
+Run 59
+Fold 1: 0.942615
+Fold 2: 0.941188
+Fold 3: 0.947406
+Fold 4: 0.940883
+Fold 5: 0.941590
+Fold 6: 0.947401
+Fold 7: 0.944139
+Fold 8: 0.941998
+Fold 9: 0.946483
+Fold 10: 0.943527
+Meso Accuracy: 0.943723
+
+Run 60
+Fold 1: 0.938742
+Fold 2: 0.946285
+Fold 3: 0.943431
+Fold 4: 0.943533
+Fold 5: 0.942202
+Fold 6: 0.943935
+Fold 7: 0.943731
+Fold 8: 0.943833
+Fold 9: 0.946381
+Fold 10: 0.942610
+Meso Accuracy: 0.943468
+
+Run 61
+Fold 1: 0.945571
+Fold 2: 0.944246
+Fold 3: 0.943227
+Fold 4: 0.941290
+Fold 5: 0.940061
+Fold 6: 0.943323
+Fold 7: 0.943833
+Fold 8: 0.944139
+Fold 9: 0.944241
+Fold 10: 0.943221
+Meso Accuracy: 0.943315
+
+Run 62
+Fold 1: 0.946183
+Fold 2: 0.944858
+Fold 3: 0.944858
+Fold 4: 0.942106
+Fold 5: 0.944343
+Fold 6: 0.944241
+Fold 7: 0.944750
+Fold 8: 0.943833
+Fold 9: 0.943629
+Fold 10: 0.943833
+Meso Accuracy: 0.944263
+
+Run 63
+Fold 1: 0.941902
+Fold 2: 0.944552
+Fold 3: 0.943940
+Fold 4: 0.943023
+Fold 5: 0.946891
+Fold 6: 0.945158
+Fold 7: 0.945464
+Fold 8: 0.946891
+Fold 9: 0.938736
+Fold 10: 0.937411
+Meso Accuracy: 0.943397
+
+Run 64
+Fold 1: 0.941188
+Fold 2: 0.946183
+Fold 3: 0.943940
+Fold 4: 0.944450
+Fold 5: 0.943629
+Fold 6: 0.947910
+Fold 7: 0.942813
+Fold 8: 0.941590
+Fold 9: 0.944139
+Fold 10: 0.942304
+Meso Accuracy: 0.943815
+
+Run 65
+Fold 1: 0.943940
+Fold 2: 0.946591
+Fold 3: 0.940985
+Fold 4: 0.943329
+Fold 5: 0.939755
+Fold 6: 0.945464
+Fold 7: 0.945362
+Fold 8: 0.943731
+Fold 9: 0.943935
+Fold 10: 0.941488
+Meso Accuracy: 0.943458
+
+Run 66
+Fold 1: 0.942717
+Fold 2: 0.941392
+Fold 3: 0.943533
+Fold 4: 0.945367
+Fold 5: 0.944546
+Fold 6: 0.942406
+Fold 7: 0.945056
+Fold 8: 0.944343
+Fold 9: 0.943119
+Fold 10: 0.942915
+Meso Accuracy: 0.943540
+
+Run 67
+Fold 1: 0.943023
+Fold 2: 0.945164
+Fold 3: 0.940679
+Fold 4: 0.940781
+Fold 5: 0.945973
+Fold 6: 0.937717
+Fold 7: 0.945056
+Fold 8: 0.943017
+Fold 9: 0.946177
+Fold 10: 0.945872
+Meso Accuracy: 0.943346
+
+Run 68
+Fold 1: 0.946489
+Fold 2: 0.940475
+Fold 3: 0.942921
+Fold 4: 0.942208
+Fold 5: 0.942508
+Fold 6: 0.946177
+Fold 7: 0.945668
+Fold 8: 0.945464
+Fold 9: 0.940469
+Fold 10: 0.942304
+Meso Accuracy: 0.943468
+
+Run 69
+Fold 1: 0.946692
+Fold 2: 0.943533
+Fold 3: 0.943125
+Fold 4: 0.944348
+Fold 5: 0.942508
+Fold 6: 0.941488
+Fold 7: 0.946279
+Fold 8: 0.942304
+Fold 9: 0.944241
+Fold 10: 0.945464
+Meso Accuracy: 0.943998
+
+Run 70
+Fold 1: 0.945877
+Fold 2: 0.944960
+Fold 3: 0.945673
+Fold 4: 0.944552
+Fold 5: 0.943527
+Fold 6: 0.943731
+Fold 7: 0.940775
+Fold 8: 0.941284
+Fold 9: 0.940877
+Fold 10: 0.945566
+Meso Accuracy: 0.943682
+
+Run 71
+Fold 1: 0.942514
+Fold 2: 0.943329
+Fold 3: 0.942412
+Fold 4: 0.944246
+Fold 5: 0.945973
+Fold 6: 0.944648
+Fold 7: 0.943833
+Fold 8: 0.945464
+Fold 9: 0.943323
+Fold 10: 0.942610
+Meso Accuracy: 0.943835
+
+Run 72
+Fold 1: 0.943023
+Fold 2: 0.942412
+Fold 3: 0.940475
+Fold 4: 0.946591
+Fold 5: 0.948420
+Fold 6: 0.947299
+Fold 7: 0.938022
+Fold 8: 0.941182
+Fold 9: 0.943425
+Fold 10: 0.946891
+Meso Accuracy: 0.943774
+
+Run 73
+Fold 1: 0.940271
+Fold 2: 0.943839
+Fold 3: 0.945979
+Fold 4: 0.945979
+Fold 5: 0.943629
+Fold 6: 0.943935
+Fold 7: 0.947401
+Fold 8: 0.942610
+Fold 9: 0.943221
+Fold 10: 0.942712
+Meso Accuracy: 0.943957
+
+Run 74
+Fold 1: 0.938335
+Fold 2: 0.942615
+Fold 3: 0.945062
+Fold 4: 0.946998
+Fold 5: 0.940061
+Fold 6: 0.945260
+Fold 7: 0.944954
+Fold 8: 0.946279
+Fold 9: 0.944037
+Fold 10: 0.944852
+Meso Accuracy: 0.943845
+
+Run 75
+Fold 1: 0.947406
+Fold 2: 0.942310
+Fold 3: 0.944450
+Fold 4: 0.945367
+Fold 5: 0.939042
+Fold 6: 0.942610
+Fold 7: 0.939755
+Fold 8: 0.943221
+Fold 9: 0.946687
+Fold 10: 0.944648
+Meso Accuracy: 0.943550
+
+Run 76
+Fold 1: 0.939660
+Fold 2: 0.942717
+Fold 3: 0.943940
+Fold 4: 0.946998
+Fold 5: 0.944037
+Fold 6: 0.942813
+Fold 7: 0.946993
+Fold 8: 0.940163
+Fold 9: 0.946483
+Fold 10: 0.942100
+Meso Accuracy: 0.943590
+
+Run 77
+Fold 1: 0.944348
+Fold 2: 0.939863
+Fold 3: 0.941800
+Fold 4: 0.941087
+Fold 5: 0.945973
+Fold 6: 0.941386
+Fold 7: 0.944139
+Fold 8: 0.943935
+Fold 9: 0.943323
+Fold 10: 0.946075
+Meso Accuracy: 0.943193
+
+Run 78
+Fold 1: 0.945979
+Fold 2: 0.942310
+Fold 3: 0.944960
+Fold 4: 0.944858
+Fold 5: 0.941794
+Fold 6: 0.943935
+Fold 7: 0.944139
+Fold 8: 0.942100
+Fold 9: 0.941998
+Fold 10: 0.946075
+Meso Accuracy: 0.943815
+
+Run 79
+Fold 1: 0.944042
+Fold 2: 0.942514
+Fold 3: 0.946081
+Fold 4: 0.943839
+Fold 5: 0.941896
+Fold 6: 0.944444
+Fold 7: 0.945158
+Fold 8: 0.942304
+Fold 9: 0.943833
+Fold 10: 0.938328
+Meso Accuracy: 0.943244
+
+=== LOGISTIC REGRESSION - 100 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.943940
+Fold 2: 0.947508
+Fold 3: 0.944450
+Fold 4: 0.940985
+Fold 5: 0.938940
+Fold 6: 0.943323
+Fold 7: 0.946483
+Fold 8: 0.944444
+Fold 9: 0.946789
+Fold 10: 0.939755
+Meso Accuracy: 0.943662
+
+Run 2
+Fold 1: 0.940169
+Fold 2: 0.941188
+Fold 3: 0.945877
+Fold 4: 0.945266
+Fold 5: 0.941488
+Fold 6: 0.945056
+Fold 7: 0.946687
+Fold 8: 0.943629
+Fold 9: 0.943935
+Fold 10: 0.939959
+Meso Accuracy: 0.943325
+
+Run 3
+Fold 1: 0.943125
+Fold 2: 0.941087
+Fold 3: 0.942412
+Fold 4: 0.944552
+Fold 5: 0.942100
+Fold 6: 0.946585
+Fold 7: 0.941284
+Fold 8: 0.944546
+Fold 9: 0.948726
+Fold 10: 0.942304
+Meso Accuracy: 0.943672
+
+Run 4
+Fold 1: 0.946285
+Fold 2: 0.945469
+Fold 3: 0.939863
+Fold 4: 0.948833
+Fold 5: 0.939959
+Fold 6: 0.945260
+Fold 7: 0.940571
+Fold 8: 0.942915
+Fold 9: 0.944852
+Fold 10: 0.944954
+Meso Accuracy: 0.943896
+
+Run 5
+Fold 1: 0.946285
+Fold 2: 0.943839
+Fold 3: 0.943023
+Fold 4: 0.940781
+Fold 5: 0.945668
+Fold 6: 0.942610
+Fold 7: 0.943731
+Fold 8: 0.946585
+Fold 9: 0.944852
+Fold 10: 0.943527
+Meso Accuracy: 0.944090
+
+Run 6
+Fold 1: 0.941290
+Fold 2: 0.945877
+Fold 3: 0.942615
+Fold 4: 0.945164
+Fold 5: 0.942813
+Fold 6: 0.944546
+Fold 7: 0.945260
+Fold 8: 0.945260
+Fold 9: 0.938124
+Fold 10: 0.946585
+Meso Accuracy: 0.943754
+
+Run 7
+Fold 1: 0.944246
+Fold 2: 0.939965
+Fold 3: 0.946285
+Fold 4: 0.940679
+Fold 5: 0.941794
+Fold 6: 0.943425
+Fold 7: 0.945973
+Fold 8: 0.945260
+Fold 9: 0.944343
+Fold 10: 0.947197
+Meso Accuracy: 0.943917
+
+Run 8
+Fold 1: 0.944144
+Fold 2: 0.943839
+Fold 3: 0.941494
+Fold 4: 0.944450
+Fold 5: 0.943935
+Fold 6: 0.942508
+Fold 7: 0.941386
+Fold 8: 0.939755
+Fold 9: 0.945973
+Fold 10: 0.943527
+Meso Accuracy: 0.943101
+
+Run 9
+Fold 1: 0.944042
+Fold 2: 0.942615
+Fold 3: 0.943329
+Fold 4: 0.940781
+Fold 5: 0.943731
+Fold 6: 0.942813
+Fold 7: 0.941590
+Fold 8: 0.945260
+Fold 9: 0.945362
+Fold 10: 0.942406
+Meso Accuracy: 0.943193
+
+TELIKOS MESOS OROS 100 RUNS: 0.943623
+
+=== MULTINOMIAL NAIVE BAYES - 100 x STRATIFIED K-FOLD ===
+
+=== LOGISTIC REGRESSION - 10 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.941087
+Fold 2: 0.947304
+Fold 3: 0.941800
+Fold 4: 0.942106
+Fold 5: 0.942610
+Fold 6: 0.945362
+Fold 7: 0.943425
+Fold 8: 0.945362
+Fold 9: 0.944037
+Fold 10: 0.942813
+Meso Accuracy: 0.943590
+
+Run 2
+Fold 1: 0.943431
+Fold 2: 0.942310
+Fold 3: 0.944348
+Fold 4: 0.945164
+Fold 5: 0.941386
+Fold 6: 0.944037
+Fold 7: 0.942813
+Fold 8: 0.942100
+Fold 9: 0.942304
+Fold 10: 0.946585
+Meso Accuracy: 0.943448
+
+Run 3
+Fold 1: 0.943023
+Fold 2: 0.945571
+Fold 3: 0.946489
+Fold 4: 0.943227
+Fold 5: 0.939857
+Fold 6: 0.942406
+Fold 7: 0.947706
+Fold 8: 0.942100
+Fold 9: 0.944444
+Fold 10: 0.939857
+Meso Accuracy: 0.943468
+
+Run 4
+Fold 1: 0.943329
+Fold 2: 0.942921
+Fold 3: 0.945266
+Fold 4: 0.947202
+Fold 5: 0.943731
+Fold 6: 0.940061
+Fold 7: 0.944343
+Fold 8: 0.941896
+Fold 9: 0.941488
+Fold 10: 0.944343
+Meso Accuracy: 0.943458
+
+Run 5
+Fold 1: 0.943431
+Fold 2: 0.945979
+Fold 3: 0.945164
+Fold 4: 0.944654
+Fold 5: 0.940571
+Fold 6: 0.941081
+Fold 7: 0.945464
+Fold 8: 0.942202
+Fold 9: 0.939653
+Fold 10: 0.943935
+Meso Accuracy: 0.943213
+
+Run 6
+Fold 1: 0.948527
+Fold 2: 0.945469
+Fold 3: 0.942921
+Fold 4: 0.945266
+Fold 5: 0.941488
+Fold 6: 0.944852
+Fold 7: 0.944037
+Fold 8: 0.941794
+Fold 9: 0.941794
+Fold 10: 0.942202
+Meso Accuracy: 0.943835
+
+Run 7
+Fold 1: 0.941800
+Fold 2: 0.942819
+Fold 3: 0.946183
+Fold 4: 0.946489
+Fold 5: 0.942508
+Fold 6: 0.942508
+Fold 7: 0.939959
+Fold 8: 0.944444
+Fold 9: 0.941284
+Fold 10: 0.942915
+Meso Accuracy: 0.943091
+
+Run 8
+Fold 1: 0.944144
+Fold 2: 0.944450
+Fold 3: 0.941596
+Fold 4: 0.944042
+Fold 5: 0.943629
+Fold 6: 0.942915
+Fold 7: 0.945464
+Fold 8: 0.943119
+Fold 9: 0.948216
+Fold 10: 0.943935
+Meso Accuracy: 0.944151
+
+Run 9
+Fold 1: 0.940679
+Fold 2: 0.939456
+Fold 3: 0.942310
+Fold 4: 0.945266
+Fold 5: 0.943017
+Fold 6: 0.947706
+Fold 7: 0.947095
+Fold 8: 0.946381
+Fold 9: 0.940673
+Fold 10: 0.941284
+Meso Accuracy: 0.943387
+
+Run 10
+Fold 1: 0.944450
+Fold 2: 0.944246
+Fold 3: 0.943125
+Fold 4: 0.940883
+Fold 5: 0.945260
+Fold 6: 0.943119
+Fold 7: 0.944444
+Fold 8: 0.941488
+Fold 9: 0.945464
+Fold 10: 0.943221
+Meso Accuracy: 0.943570
+
+TELIKOS MESOS OROS 10 RUNS: 0.943521
+
+=== MULTINOMIAL NAIVE BAYES - 10 x STRATIFIED K-FOLD ===
+
+=== MULTINOMIAL NAIVE BAYES - 10 x STRATIFIED K-FOLD ===
+Run 10: Meso Accuracy = 0.514260
+
+=== MULTINOMIAL NAIVE BAYES - 10 x STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.514220
+Run 2: Meso Accuracy = 0.514189
+Run 3: Meso Accuracy = 0.514199
+Run 4: Meso Accuracy = 0.514087
+Run 5: Meso Accuracy = 0.514199
+Run 6: Meso Accuracy = 0.514138
+Run 7: Meso Accuracy = 0.514179
+Run 8: Meso Accuracy = 0.514220
+Run 9: Meso Accuracy = 0.514250
+Run 10: Meso Accuracy = 0.514158
+-------------------------------------------------------
+TELIKOS MESOS OROS 10 RUNS: 0.514184
+
+=== MLP - REPEATED STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.529030
+
+=== LOGISTIC REGRESSION - 10 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.941596
+Fold 2: 0.947304
+Fold 3: 0.942717
+Fold 4: 0.947304
+Fold 5: 0.942712
+Fold 6: 0.939755
+Fold 7: 0.942712
+Fold 8: 0.943935
+Fold 9: 0.945872
+Fold 10: 0.944852
+Meso Accuracy: 0.943876
+
+Run 2
+Fold 1: 0.940067
+Fold 2: 0.942615
+Fold 3: 0.945673
+Fold 4: 0.943431
+Fold 5: 0.944648
+Fold 6: 0.943017
+Fold 7: 0.941081
+Fold 8: 0.945056
+Fold 9: 0.946381
+Fold 10: 0.943731
+Meso Accuracy: 0.943570
+
+Run 3
+Fold 1: 0.944348
+Fold 2: 0.943635
+Fold 3: 0.941800
+Fold 4: 0.946591
+Fold 5: 0.943527
+Fold 6: 0.943833
+Fold 7: 0.940877
+Fold 8: 0.944037
+Fold 9: 0.946789
+Fold 10: 0.943323
+Meso Accuracy: 0.943876
+
+Run 4
+Fold 1: 0.943329
+Fold 2: 0.946998
+Fold 3: 0.938640
+Fold 4: 0.944756
+Fold 5: 0.945158
+Fold 6: 0.946483
+Fold 7: 0.942406
+Fold 8: 0.940877
+Fold 9: 0.942100
+Fold 10: 0.944241
+Meso Accuracy: 0.943499
+
+Run 5
+Fold 1: 0.943023
+Fold 2: 0.941902
+Fold 3: 0.945775
+Fold 4: 0.945367
+Fold 5: 0.940775
+Fold 6: 0.944750
+Fold 7: 0.946177
+Fold 8: 0.946177
+Fold 9: 0.940061
+Fold 10: 0.941488
+Meso Accuracy: 0.943550
+
+Run 6
+Fold 1: 0.941902
+Fold 2: 0.943227
+Fold 3: 0.946692
+Fold 4: 0.942615
+Fold 5: 0.939755
+Fold 6: 0.950153
+Fold 7: 0.941998
+Fold 8: 0.944852
+Fold 9: 0.941998
+Fold 10: 0.943119
+Meso Accuracy: 0.943631
+
+Run 7
+Fold 1: 0.940781
+Fold 2: 0.947916
+Fold 3: 0.941494
+Fold 4: 0.941800
+Fold 5: 0.942304
+Fold 6: 0.945973
+Fold 7: 0.944852
+Fold 8: 0.941998
+Fold 9: 0.945566
+Fold 10: 0.943017
+Meso Accuracy: 0.943570
+
+Run 8
+Fold 1: 0.945367
+Fold 2: 0.945673
+Fold 3: 0.937315
+Fold 4: 0.943940
+Fold 5: 0.943731
+Fold 6: 0.940979
+Fold 7: 0.945973
+Fold 8: 0.944139
+Fold 9: 0.947095
+Fold 10: 0.941998
+Meso Accuracy: 0.943621
+
+Run 9
+Fold 1: 0.945062
+Fold 2: 0.944042
+Fold 3: 0.942717
+Fold 4: 0.940985
+Fold 5: 0.940265
+Fold 6: 0.938430
+Fold 7: 0.944954
+Fold 8: 0.946687
+Fold 9: 0.945158
+Fold 10: 0.944343
+Meso Accuracy: 0.943264
+
+Run 10
+Fold 1: 0.945367
+Fold 2: 0.941188
+Fold 3: 0.943737
+Fold 4: 0.945775
+Fold 5: 0.943425
+Fold 6: 0.943425
+Fold 7: 0.943731
+Fold 8: 0.941692
+Fold 9: 0.943833
+Fold 10: 0.945260
+Meso Accuracy: 0.943743
+
+TELIKOS MESOS OROS 10 RUNS: 0.943620
+
+=== LOGISTIC REGRESSION - 10 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.511059
+Fold 2: 0.507594
+Fold 3: 0.504842
+Fold 4: 0.505147
+Fold 5: 0.506524
+Fold 6: 0.507747
+Fold 7: 0.504383
+Fold 8: 0.504689
+Fold 9: 0.509582
+Fold 10: 0.510601
+Meso Accuracy: 0.507217
+
+Run 2
+Fold 1: 0.512384
+Fold 2: 0.513199
+Fold 3: 0.506472
+Fold 4: 0.498726
+Fold 5: 0.507747
+Fold 6: 0.506932
+Fold 7: 0.504791
+Fold 8: 0.508257
+Fold 9: 0.504893
+Fold 10: 0.509582
+Meso Accuracy: 0.507298
+
+Run 3
+Fold 1: 0.508001
+Fold 2: 0.504434
+Fold 3: 0.503924
+Fold 4: 0.505249
+Fold 5: 0.504791
+Fold 6: 0.510398
+Fold 7: 0.507849
+Fold 8: 0.509276
+Fold 9: 0.513354
+Fold 10: 0.506626
+Meso Accuracy: 0.507390
+
+Run 4
+Fold 1: 0.511569
+Fold 2: 0.506268
+Fold 3: 0.508409
+Fold 4: 0.504943
+Fold 5: 0.505912
+Fold 6: 0.506932
+Fold 7: 0.501019
+Fold 8: 0.507951
+Fold 9: 0.513456
+Fold 10: 0.504383
+Meso Accuracy: 0.507084
+
+Run 5
+Fold 1: 0.505147
+Fold 2: 0.508613
+Fold 3: 0.508307
+Fold 4: 0.510447
+Fold 5: 0.507543
+Fold 6: 0.505708
+Fold 7: 0.505199
+Fold 8: 0.506728
+Fold 9: 0.512029
+Fold 10: 0.503568
+Meso Accuracy: 0.507329
+
+Run 6
+Fold 1: 0.510142
+Fold 2: 0.501886
+Fold 3: 0.511671
+Fold 4: 0.504128
+Fold 5: 0.505505
+Fold 6: 0.509480
+Fold 7: 0.503160
+Fold 8: 0.508767
+Fold 9: 0.510703
+Fold 10: 0.505199
+Meso Accuracy: 0.507064
+
+Run 7
+Fold 1: 0.510040
+Fold 2: 0.513709
+Fold 3: 0.503822
+Fold 4: 0.507695
+Fold 5: 0.507747
+Fold 6: 0.505097
+Fold 7: 0.505301
+Fold 8: 0.501937
+Fold 9: 0.509888
+Fold 10: 0.506014
+Meso Accuracy: 0.507125
+
+Run 8
+Fold 1: 0.511671
+Fold 2: 0.499643
+Fold 3: 0.504128
+Fold 4: 0.507695
+Fold 5: 0.506728
+Fold 6: 0.506626
+Fold 7: 0.508563
+Fold 8: 0.508970
+Fold 9: 0.512946
+Fold 10: 0.506932
+Meso Accuracy: 0.507390
+
+Run 9
+Fold 1: 0.513709
+Fold 2: 0.508205
+Fold 3: 0.508001
+Fold 4: 0.506370
+Fold 5: 0.504587
+Fold 6: 0.502548
+Fold 7: 0.511927
+Fold 8: 0.512742
+Fold 9: 0.499694
+Fold 10: 0.506014
+Meso Accuracy: 0.507380
+
+Run 10
+Fold 1: 0.509836
+Fold 2: 0.506065
+Fold 3: 0.508715
+Fold 4: 0.502497
+Fold 5: 0.508257
+Fold 6: 0.505810
+Fold 7: 0.509072
+Fold 8: 0.506218
+Fold 9: 0.509582
+Fold 10: 0.505505
+Meso Accuracy: 0.507156
+
+TELIKOS MESOS OROS 10 RUNS: 0.507243
+
+=== MULTINOMIAL NAIVE BAYES - 10 x STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.514220
+Run 2: Meso Accuracy = 0.514362
+Run 3: Meso Accuracy = 0.514434
+Run 4: Meso Accuracy = 0.514383
+Run 5: Meso Accuracy = 0.514230
+Run 6: Meso Accuracy = 0.514301
+Run 7: Meso Accuracy = 0.514097
+Run 8: Meso Accuracy = 0.514220
+Run 9: Meso Accuracy = 0.514159
+Run 10: Meso Accuracy = 0.514077
+-------------------------------------------------------
+TELIKOS MESOS OROS 10 RUNS: 0.514248
+
+=== MLP - REPEATED STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.525442
+Run 2: Meso Accuracy = 0.525075
+Run 3: Meso Accuracy = 0.525341
+Run 4: Meso Accuracy = 0.525310
+Run 5: Meso Accuracy = 0.525493
+Run 6: Meso Accuracy = 0.525748
+Run 7: Meso Accuracy = 0.526452
+Run 8: Meso Accuracy = 0.525086
+Run 9: Meso Accuracy = 0.525514
+Run 10: Meso Accuracy = 0.525646
+
+TELIKOS MESOS OROS MLP: 0.525511
+
+=== LOGISTIC REGRESSION - 10 x STRATIFIED K-FOLD ===
+
+Run 1
+Fold 1: 0.944144
+Fold 2: 0.943329
+Fold 3: 0.940271
+Fold 4: 0.940781
+Fold 5: 0.941896
+Fold 6: 0.945872
+Fold 7: 0.948216
+Fold 8: 0.941998
+Fold 9: 0.946075
+Fold 10: 0.947706
+Meso Accuracy: 0.944029
+
+Run 2
+Fold 1: 0.946998
+Fold 2: 0.947610
+Fold 3: 0.949139
+Fold 4: 0.940679
+Fold 5: 0.940775
+Fold 6: 0.941794
+Fold 7: 0.939246
+Fold 8: 0.945362
+Fold 9: 0.940877
+Fold 10: 0.943119
+Meso Accuracy: 0.943560
+
+Run 3
+Fold 1: 0.946692
+Fold 2: 0.943839
+Fold 3: 0.943125
+Fold 4: 0.945062
+Fold 5: 0.944343
+Fold 6: 0.941896
+Fold 7: 0.947706
+Fold 8: 0.941182
+Fold 9: 0.941081
+Fold 10: 0.941386
+Meso Accuracy: 0.943631
+
+Run 4
+Fold 1: 0.944552
+Fold 2: 0.945775
+Fold 3: 0.943125
+Fold 4: 0.942004
+Fold 5: 0.944444
+Fold 6: 0.942610
+Fold 7: 0.942202
+Fold 8: 0.942406
+Fold 9: 0.944241
+Fold 10: 0.943323
+Meso Accuracy: 0.943468
+
+Run 5
+Fold 1: 0.943227
+Fold 2: 0.944450
+Fold 3: 0.942514
+Fold 4: 0.946285
+Fold 5: 0.941794
+Fold 6: 0.945668
+Fold 7: 0.943833
+Fold 8: 0.946381
+Fold 9: 0.944343
+Fold 10: 0.941794
+Meso Accuracy: 0.944029
+
+Run 6
+Fold 1: 0.943635
+Fold 2: 0.945775
+Fold 3: 0.944246
+Fold 4: 0.940169
+Fold 5: 0.939653
+Fold 6: 0.948420
+Fold 7: 0.942813
+Fold 8: 0.944648
+Fold 9: 0.940673
+Fold 10: 0.944954
+Meso Accuracy: 0.943499
+
+Run 7
+Fold 1: 0.947610
+Fold 2: 0.943737
+Fold 3: 0.943533
+Fold 4: 0.940577
+Fold 5: 0.944648
+Fold 6: 0.945566
+Fold 7: 0.941590
+Fold 8: 0.948726
+Fold 9: 0.935882
+Fold 10: 0.943731
+Meso Accuracy: 0.943560
+
+Run 8
+Fold 1: 0.943431
+Fold 2: 0.945164
+Fold 3: 0.943635
+Fold 4: 0.943635
+Fold 5: 0.943527
+Fold 6: 0.937207
+Fold 7: 0.941896
+Fold 8: 0.946891
+Fold 9: 0.943935
+Fold 10: 0.944954
+Meso Accuracy: 0.943427
+
+Run 9
+Fold 1: 0.943839
+Fold 2: 0.943533
+Fold 3: 0.942412
+Fold 4: 0.941087
+Fold 5: 0.940367
+Fold 6: 0.946381
+Fold 7: 0.944648
+Fold 8: 0.951070
+Fold 9: 0.942304
+Fold 10: 0.943935
+Meso Accuracy: 0.943957
+
+Run 10
+Fold 1: 0.942615
+Fold 2: 0.946896
+Fold 3: 0.941698
+Fold 4: 0.943940
+Fold 5: 0.942304
+Fold 6: 0.938736
+Fold 7: 0.945158
+Fold 8: 0.944139
+Fold 9: 0.940775
+Fold 10: 0.943935
+Meso Accuracy: 0.943020
+
+TELIKOS MESOS OROS 10 RUNS: 0.943618
+
+=== MULTINOMIAL NAIVE BAYES - 10 x STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.830680
+Run 2: Meso Accuracy = 0.830965
+Run 3: Meso Accuracy = 0.829946
+Run 4: Meso Accuracy = 0.830547
+Run 5: Meso Accuracy = 0.830567
+Run 6: Meso Accuracy = 0.830476
+Run 7: Meso Accuracy = 0.830557
+Run 8: Meso Accuracy = 0.830374
+Run 9: Meso Accuracy = 0.831108
+Run 10: Meso Accuracy = 0.830914
+-------------------------------------------------------
+TELIKOS MESOS OROS 10 RUNS: 0.830613
+
+=== MLP - REPEATED STRATIFIED K-FOLD ===
+Run 1: Meso Accuracy = 0.945680
+Run 2: Meso Accuracy = 0.945935
+Run 3: Meso Accuracy = 0.945262
+Run 4: Meso Accuracy = 0.945955
+Run 5: Meso Accuracy = 0.945925
+Run 6: Meso Accuracy = 0.945588
+Run 7: Meso Accuracy = 0.945680
+Run 8: Meso Accuracy = 0.944263
+Run 9: Meso Accuracy = 0.945344
+Run 10: Meso Accuracy = 0.945578
+
+TELIKOS MESOS OROS MLP: 0.945521
